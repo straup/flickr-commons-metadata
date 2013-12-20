@@ -17,14 +17,14 @@
 * Getty Research Institute	(35532303@N08)
 * National Library of Sweden	(95520404@N07)
 * Center for Jewish History, NYC	(36988361@N08)
-* Smithsonian Institution	(25053835@N03)
+* [Smithsonian Institution](data/25053835%40N03) – _last archived 20131220_
 * The U.S. National Archives	(35740357@N03)
 * OSU Special Collections & Archives : Commons	(34586311@N05)
 * The Royal Library, Denmark	(45270502@N06)
 * Mennonite Church USA Archives	(52529054@N06)
 * The National Archives UK	(31575009@N05)
 * Ljósmyndasafn Reykjavíkur / Reykjavík Museum of	(9189488@N02)
-* [Brooklyn Museum](data/83979593%40N00) – last archived 20131220
+* [Brooklyn Museum](data/83979593%40N00) – _last archived 20131220_
 * Keene and Cheshire County (NH) Historical Photos	(25960495@N06)
 * The Field Museum Library	(35310696@N04)
 * National Galleries of Scotland Commons	(30835311@N07)
@@ -77,7 +77,7 @@
 * Galt Museum & Archives on The Commons	(23686862@N03)
 * Svenska litteratursällskapet i Finland	(48641766@N05)
 * Woodrow Wilson Presidential Library Archives	(41815917@N06)
-* [Powerhouse Museum Collection](data/24785917%40N03) – last archived 20131220
+* [Powerhouse Museum Collection](data/24785917%40N03) – _last archived 20131220_
 * Mississippi Department of Archives and History	(77015680@N05)
 * National Library NZ on The Commons	(32741315@N06)
 
