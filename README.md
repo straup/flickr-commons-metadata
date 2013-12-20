@@ -1,6 +1,6 @@
 # flickr-commons-metadata
 
-flickr-commons-metadata contains the raw metadata for Flickr Commons photos in JSON format from the Flickr API using the following methods:
+flickr-commons-metadata contains the raw metadata for Flickr Commons photos in JSON format pulled from the Flickr API using the following methods:
 
 * [flickr.photos.getInfo](http://www.flickr.com/services/api/flickr.photos.getInfo)
 * [flickr.photos.getSizes](http://www.flickr.com/services/api/flickr.photos.getSizes)
