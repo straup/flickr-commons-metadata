@@ -1,5 +1,13 @@
 # flickr-commons-metadata
 
+flickr-commons-metadata contains the raw metadata for Flickr Commons photos in JSON format from the Flickr API using the following methods:
+
+* [flickr.photos.getInfo](http://www.flickr.com/services/api/flickr.photos.getInfo)
+* [flickr.photos.getSizes](http://www.flickr.com/services/api/flickr.photos.getSizes)
+* [flickr.photos.comments.getList](http://www.flickr.com/services/api/flickr.photos.comments.getList)
+* [flickr.photos.getAllContexts](http://www.flickr.com/services/api/flickr.photos.getAllContexts)
+* [flickr.photos.getExif](http://www.flickr.com/services/api/flickr.photos.getExif)
+
 ## Institutions
 
 * Musée McCord Museum	(25786829@N08)
