@@ -24,7 +24,7 @@
 * Mennonite Church USA Archives	(52529054@N06)
 * The National Archives UK	(31575009@N05)
 * Ljósmyndasafn Reykjavíkur / Reykjavík Museum of	(9189488@N02)
-* [Brooklyn Museum](tree/master/data/83979593%40N00)
+* [Brooklyn Museum](master/data/83979593%40N00)
 * Keene and Cheshire County (NH) Historical Photos	(25960495@N06)
 * The Field Museum Library	(35310696@N04)
 * National Galleries of Scotland Commons	(30835311@N07)
