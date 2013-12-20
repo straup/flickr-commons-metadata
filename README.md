@@ -24,7 +24,7 @@
 * Mennonite Church USA Archives	(52529054@N06)
 * The National Archives UK	(31575009@N05)
 * Ljósmyndasafn Reykjavíkur / Reykjavík Museum of	(9189488@N02)
-* [Brooklyn Museum](data/83979593%40N00)
+* [Brooklyn Museum](data/83979593%40N00) – last archived 20131220
 * Keene and Cheshire County (NH) Historical Photos	(25960495@N06)
 * The Field Museum Library	(35310696@N04)
 * National Galleries of Scotland Commons	(30835311@N07)
@@ -77,7 +77,7 @@
 * Galt Museum & Archives on The Commons	(23686862@N03)
 * Svenska litteratursällskapet i Finland	(48641766@N05)
 * Woodrow Wilson Presidential Library Archives	(41815917@N06)
-* [Powerhouse Museum Collection](data/24785917%40N03)
+* [Powerhouse Museum Collection](data/24785917%40N03) – last archived 20131220
 * Mississippi Department of Archives and History	(77015680@N05)
 * National Library NZ on The Commons	(32741315@N06)
 
