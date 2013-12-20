@@ -8,7 +8,18 @@ flickr-commons-metadata contains the raw metadata for Flickr Commons photos in J
 * [flickr.photos.getAllContexts](http://www.flickr.com/services/api/flickr.photos.getAllContexts)
 * [flickr.photos.getExif](http://www.flickr.com/services/api/flickr.photos.getExif)
 
+For example:
+
+  $>ls -al data/83979593@N00/224/682/902/*
+  -rw-r--r--  1 asc  staff    53 Dec 20 15:49 83979593@N00/224/682/902/224682902-c.json
+  -rw-r--r--  1 asc  staff   255 Dec 20 15:49 83979593@N00/224/682/902/224682902-ctx.json
+  -rw-r--r--  1 asc  staff  7952 Dec 20 15:49 83979593@N00/224/682/902/224682902-e.json
+  -rw-r--r--  1 asc  staff  2273 Dec 20 15:49 83979593@N00/224/682/902/224682902-i.json
+  -rw-r--r--  1 asc  staff  2060 Dec 20 15:49 83979593@N00/224/682/902/224682902-s.json
+
 ## Institutions
+
+Not all (read: most) participating institutions have been added to the repository yet so contributions and pull requests are welcome.
 
 * Musée McCord Museum	(25786829@N08)
 * Cornell University Library	(30515687@N05)
