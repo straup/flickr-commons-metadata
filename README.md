@@ -77,7 +77,7 @@
 * Galt Museum & Archives on The Commons	(23686862@N03)
 * Svenska litteratursällskapet i Finland	(48641766@N05)
 * Woodrow Wilson Presidential Library Archives	(41815917@N06)
-* [Powerhouse Museum Collection](tree/master/data/24785917%40N03)
+* [Powerhouse Museum Collection](data/24785917%40N03)
 * Mississippi Department of Archives and History	(77015680@N05)
 * National Library NZ on The Commons	(32741315@N06)
 
