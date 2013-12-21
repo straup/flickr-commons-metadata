@@ -121,7 +121,7 @@ Individual institutions are archived using the
 * [NASA on The Commons](data/44494372%40N05) – _last archived 20131221_
 * IWM Collections	(32300107@N06)
 * Galt Museum & Archives on The Commons	(23686862@N03)
-* Svenska litteratursällskapet i Finland	(48641766@N05)
+* [Svenska litteratursällskapet i Finland](data/48641766%40N05) – _last archived 20131221_
 * Woodrow Wilson Presidential Library Archives	(41815917@N06)
 * [Powerhouse Museum Collection](data/24785917%40N03) – _last archived 20131220_
 * Mississippi Department of Archives and History	(77015680@N05)
