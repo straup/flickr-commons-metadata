@@ -111,14 +111,14 @@ Individual institutions are archived using the
 * Royal Australian Historical Society	(69269002@N04)
 * DC Public Library Commons	(36038586@N04)
 * Fylkesarkivet i Sogn og Fjordane	(37547255@N08)
-* [New York Public Library](data/32951986%40N05)
+* [New York Public Library](data/32951986%40N05) – _last archived 20131221_
 * Riksarkivet (National Archives of Norway)	(59811348@N05)
 * Australian War Memorial collection	(30115723@N02)
 * State Records NSW	(27331537@N06)
 * UW Digital Collections	(8337233@N06)
 * George Eastman House	(7167652@N06)
 * Schlesinger Library, RIAS, Harvard University	(99902797@N03)
-* [NASA on The Commons](data/44494372%40N05)
+* [NASA on The Commons](data/44494372%40N05) – _last archived 20131221_
 * IWM Collections	(32300107@N06)
 * Galt Museum & Archives on The Commons	(23686862@N03)
 * Svenska litteratursällskapet i Finland	(48641766@N05)
