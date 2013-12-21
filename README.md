@@ -29,7 +29,7 @@ Individual institutions are archived using the
 
 ## Institutions
 
-* Musée McCord Museum	(25786829@N08)
+* [Musée McCord Museum](data/25786829%40N08) – _last archived 20131220_
 * Cornell University Library	(30515687@N05)
 * National Maritime Museum	(11334970@N05)
 * Australian National Maritime Museum on The Commons	(33147718@N05)
@@ -92,7 +92,7 @@ Individual institutions are archived using the
 * Royal Australian Historical Society	(69269002@N04)
 * DC Public Library Commons	(36038586@N04)
 * Fylkesarkivet i Sogn og Fjordane	(37547255@N08)
-* New York Public Library	(32951986@N05)
+* [New York Public Library](data/32951986%40N05)
 * Riksarkivet (National Archives of Norway)	(59811348@N05)
 * Australian War Memorial collection	(30115723@N02)
 * State Records NSW	(27331537@N06)
@@ -106,7 +106,7 @@ Individual institutions are archived using the
 * Woodrow Wilson Presidential Library Archives	(41815917@N06)
 * [Powerhouse Museum Collection](data/24785917%40N03) – _last archived 20131220_
 * Mississippi Department of Archives and History	(77015680@N05)
-* National Library NZ on The Commons	(32741315@N06)
+* [National Library NZ on The Commons](data/32741315%40N06) – _last archived 20131220_
 
 ## See also
 
