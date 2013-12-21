@@ -56,8 +56,7 @@ The following institutions are currently being archived by one or more people
 * The U.S. National Archives	(@straup / 20131221)
 * State Library and Archives of Florida	(@straup / 20131221)
 
-
---
+### Complete list
 
 * [Musée McCord Museum](data/25786829%40N08) – _last archived 20131220_
 * Cornell University Library	(30515687@N05)
