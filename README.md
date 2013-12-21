@@ -17,6 +17,25 @@ For example:
 	-rw-r--r--  1 asc  staff  2273 Dec 20 15:49 83979593@N00/224/682/902/224682902-i.json
 	-rw-r--r--  1 asc  staff  2060 Dec 20 15:49 83979593@N00/224/682/902/224682902-s.json
 
+As of mid-morning December 21 (2013) metadata files contain a
+`flarchive:created` attribute which is a Unix timestamp indicating when the file
+was last archived.
+
+For example:
+
+	$> cat 6260452122-i.json | python -mjson.tool
+	{
+	    "flarchive:created": 1387636691, 
+	    "photo": {
+        	"comments": {
+   	         "_content": "0"
+        	}, 
+	    ... and so on
+	}
+
+_That means as of mid-morning December 21 (2013) a bunch of metadata files
+archived before this date are still missing the `flarchive:created` attribute._
+
 ## Details
 
 Not all (read: most) participating institutions have been added to the
