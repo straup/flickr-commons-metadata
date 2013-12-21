@@ -17,9 +17,17 @@ For example:
 	-rw-r--r--  1 asc  staff  2273 Dec 20 15:49 83979593@N00/224/682/902/224682902-i.json
 	-rw-r--r--  1 asc  staff  2060 Dec 20 15:49 83979593@N00/224/682/902/224682902-s.json
 
-## Institutions
+## Details
 
-Not all (read: most) participating institutions have been added to the repository yet so contributions and pull requests are welcome.
+Not all (read: most) participating institutions have been added to the
+repository yet so contributions and pull requests are welcome.
+
+Individual institutions are archived using the
+[py-flarchive](https://github.com/straup/py-flarchive) library, like this:
+
+	$> python ./flarchive/__init__.py -v -a <APIKEY> -n <NSID> -d flickr-commons-metadata/data
+
+## Institutions
 
 * Musée McCord Museum	(25786829@N08)
 * Cornell University Library	(30515687@N05)
