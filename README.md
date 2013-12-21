@@ -75,7 +75,7 @@ Individual institutions are archived using the
 * The Field Museum Library	(35310696@N04)
 * National Galleries of Scotland Commons	(30835311@N07)
 * Jewish Historical Society of the Upper Midwest	(48143042@N05)
-* Het Nieuwe Instituut - Architecture Collection	(47154409@N06)
+* [Het Nieuwe Instituut - Architecture Collection](data/47154409%40N06) – _last archived 20131221_
 * National Library of Norway	(48220291@N04)
 * National Museum of Denmark	(95772747@N07)
 * Tyne & Wear Archives & Museums	(29295370@N07)
