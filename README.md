@@ -88,7 +88,7 @@ Individual institutions are archived using the
 * Museum of Photographic Arts Collections	(61498590@N03)
 * State Library of Queensland, Australia	(32605636@N06)
 * Biblioteca de Arte-Fundação Calouste Gulbenkian	(26577438@N06)
-* The Library of Congress	(8623220@N02)
+* [The Library of Congress](data/8623220%40N02)
 * Royal Australian Historical Society	(69269002@N04)
 * DC Public Library Commons	(36038586@N04)
 * Fylkesarkivet i Sogn og Fjordane	(37547255@N08)
