@@ -56,7 +56,6 @@ The following institutions are currently being archived by one or more people
 * National Galleries of Scotland Commons (hugovk / 20131222)
 * National Library of Scotland (hugovk / 20131222)
 * National Archives of Estonia (hugovk / 20131222)
-* National Maritime Museum (straup / 20131222)
 * Biblioteca de Arte-Fundação Calouste Gulbenkian (straup / 20131222)
 
 _If you are archiving one or more institutions below add them here and send me a pull request or open an issue and I will add it to the list._
@@ -65,7 +64,7 @@ _If you are archiving one or more institutions below add them here and send me a
 
 * [Musée McCord Museum](data/25786829%40N08) – _last archived 20131220_
 * Cornell University Library	(30515687@N05)
-* National Maritime Museum	(11334970@N05)
+* [National Maritime Museum](data/11334970%40N05) – _last archived 20131222_
 * Australian National Maritime Museum on The Commons	(33147718@N05)
 * Texas State Archives	(47326604@N02)
 * SMU Central University Libraries	(41131493@N06)
