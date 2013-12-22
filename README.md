@@ -97,7 +97,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * Bergen Public Library	(37381115@N04)
 * National Library of Scotland	(14456531@N07)
 * National Archives of Estonia	(94021017@N05)
-* San Diego Air & Space Museum Archives	(49487266@N07)
+* [San Diego Air & Space Museum Archives](data/49487266%40N07) – _partially archived as of 20131222_
 * Museum of Hartlepool	(47908901@N03)
 * [State Library and Archives of Florida](data/31846825%40N04) – _last archived 20131222_
 * LSE Library	(35128489@N07)
@@ -120,7 +120,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * National Library of Australia Commons	(67193564@N03)
 * Museum of Photographic Arts Collections	(61498590@N03)
 * State Library of Queensland, Australia	(32605636@N06)
-* Biblioteca de Arte-Fundação Calouste Gulbenkian	(26577438@N06)
+* [Biblioteca de Arte-Fundação Calouste Gulbenkian](data/26577438%40N06) – _partially archived as of 20131222_
 * [The Library of Congress](data/8623220%40N02) – _last archived 20131221_
 * Royal Australian Historical Society	(69269002@N04)
 * DC Public Library Commons	(36038586@N04)
