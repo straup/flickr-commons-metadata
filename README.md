@@ -52,9 +52,12 @@ Individual institutions are archived using the
 
 The following institutions are currently being archived by one or more people
 
-* San Diego Air & Space Museum Archives	(@straup / 20131221)
-* The U.S. National Archives	(@straup / 20131221)
-* State Library and Archives of Florida	(@straup / 20131221)
+* San Diego Air & Space Museum Archives	(straup / 20131221)
+* The U.S. National Archives	(straup / 20131221)
+* State Library and Archives of Florida	(straup / 20131221)
+* National Galleries of Scotland Commons (hugovk / 20131222)
+* National Library of Scotland (hugovk / 20131222)
+* National Archives of Estonia (hugovk / 20131222)
 
 ### Complete list
 
