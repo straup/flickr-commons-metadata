@@ -53,8 +53,6 @@ Individual institutions are archived using the
 The following institutions are currently being archived by one or more people
 
 * San Diego Air & Space Museum Archives	(straup / 20131221)
-* The U.S. National Archives	(straup / 20131221)
-* State Library and Archives of Florida	(straup / 20131221)
 * National Galleries of Scotland Commons (hugovk / 20131222)
 * National Library of Scotland (hugovk / 20131222)
 * National Archives of Estonia (hugovk / 20131222)
@@ -77,7 +75,7 @@ The following institutions are currently being archived by one or more people
 * National Library of Sweden	(95520404@N07)
 * Center for Jewish History, NYC	(36988361@N08)
 * [Smithsonian Institution](data/25053835%40N03) – _last archived 20131220_
-* The U.S. National Archives	(35740357@N03)
+* [The U.S. National Archives](data/35740357%40N03) – _last archived 20131222_
 * OSU Special Collections & Archives : Commons	(34586311@N05)
 * The Royal Library, Denmark	(45270502@N06)
 * Mennonite Church USA Archives	(52529054@N06)
@@ -98,7 +96,7 @@ The following institutions are currently being archived by one or more people
 * National Archives of Estonia	(94021017@N05)
 * San Diego Air & Space Museum Archives	(49487266@N07)
 * Museum of Hartlepool	(47908901@N03)
-* State Library and Archives of Florida	(31846825@N04)
+* [State Library and Archives of Florida](data/31846825%40N04) – _last archived 20131222_
 * LSE Library	(35128489@N07)
 * Deseronto Archives	(23121382@N07)
 * LlGC ~ NLW	(37199428@N06)
