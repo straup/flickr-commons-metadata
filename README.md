@@ -109,7 +109,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * The British Library	(12403504@N02)
 * [Nationaal Archief](data/29998366%40N02) – _last archived 20131222_
 * bibliothequedetoulouse	(26134435@N05)
-* [California Historical Society Digital Collection](data/99278405%40N04)
+* [California Historical Society Digital Collection](data/99278405%40N04) – _last archived 20131222_
 * Law Society of Upper Canada Archives	(38561291@N04)
 * Vancouver Public Library Historical Photographs	(99915476@N04)
 * The Library of Virginia	(30194653@N06)
