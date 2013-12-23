@@ -110,7 +110,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Nationaal Archief](data/29998366%40N02) – _last archived 20131222_
 * bibliothequedetoulouse	(26134435@N05)
 * [California Historical Society Digital Collection](data/99278405%40N04) – _last archived 20131222_
-* Law Society of Upper Canada Archives	(38561291@N04)
+* [Law Society of Upper Canada Archives](data/38561291%40N04) – _last archived 20131223_
 * Vancouver Public Library Historical Photographs	(99915476@N04)
 * The Library of Virginia	(30194653@N06)
 * State Library of New South Wales collection	(29454428@N08)
