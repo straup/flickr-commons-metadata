@@ -6,7 +6,7 @@ flickr-commons-metadata contains the raw metadata for Flickr Commons photos in J
 * [flickr.photos.getSizes](http://www.flickr.com/services/api/flickr.photos.getSizes)
 * [flickr.photos.comments.getList](http://www.flickr.com/services/api/flickr.photos.comments.getList)
 * [flickr.photos.getAllContexts](http://www.flickr.com/services/api/flickr.photos.getAllContexts)
-* [flickr.photos.getExif](http://www.flickr.com/services/api/flickr.photos.getExif) _if publicly available_
+* [flickr.photos.getExif](http://www.flickr.com/services/api/flickr.photos.getExif) _– if publicly available_
 
 For example:
 
@@ -57,6 +57,7 @@ The following institutions are currently being archived by one or more people
 * Riksarkivet (National Archives of Norway) (hugovk / 20131223)
 * National Library of Sweden (hugovk / 20131223)
 * Swedish National Heritage Board (hugovk / 20131223)
+* Mississippi Department of Archives and History (straup / 20131223)
 
 _If you are archiving one or more institutions below add them here and send me a pull request or open an issue and I will add it to the list._
 
@@ -65,7 +66,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Musée McCord Museum](data/25786829%40N08) – _last archived 20131220_
 * Cornell University Library	(30515687@N05)
 * [National Maritime Museum](data/11334970%40N05) – _last archived 20131222_
-* Australian National Maritime Museum on The Commons	(33147718@N05)
+* [Australian National Maritime Museum on The Commons](data/33147718%40N05)
 * Texas State Archives	(47326604@N02)
 * SMU Central University Libraries	(41131493@N06)
 * nha.library	(34101160@N07)
@@ -91,7 +92,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * Jewish Historical Society of the Upper Midwest	(48143042@N05)
 * [Het Nieuwe Instituut - Architecture Collection](data/47154409%40N06) – _last archived 20131221_
 * National Library of Norway	(48220291@N04)
-* [National Museum of Denmark](95772747%40N07)
+* [National Museum of Denmark](95772747%40N07) – _last archived 20131222_
 * Tyne & Wear Archives & Museums	(29295370@N07)
 * Dundas Museum and Archives	(39758725@N03)
 * Bergen Public Library	(37381115@N04)
@@ -111,7 +112,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * bibliothequedetoulouse	(26134435@N05)
 * [California Historical Society Digital Collection](data/99278405%40N04) – _last archived 20131222_
 * [Law Society of Upper Canada Archives](data/38561291%40N04) – _last archived 20131223_
-* [Vancouver Public Library Historical Photographs](data/99915476%40N04)
+* [Vancouver Public Library Historical Photographs](data/99915476%40N04) – _last archived 20131223_
 * The Library of Virginia	(30194653@N06)
 * State Library of New South Wales collection	(29454428@N08)
 * JWA Commons	(36281769@N04)
@@ -138,7 +139,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Svenska litteratursällskapet i Finland](data/48641766%40N05) – _last archived 20131221_
 * Woodrow Wilson Presidential Library Archives	(41815917@N06)
 * [Powerhouse Museum Collection](data/24785917%40N03) – _last archived 20131220_
-* Mississippi Department of Archives and History	(77015680@N05)
+* [Mississippi Department of Archives and History](data/77015680%40N05)  – _partially archived as of 20131223_
 * [National Library NZ on The Commons](data/32741315%40N06) – _last archived 20131220_
 
 ## See also
