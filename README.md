@@ -53,9 +53,6 @@ Individual institutions are archived using the
 The following institutions are currently being archived by one or more people
 
 * San Diego Air & Space Museum Archives	(straup / 20131221)
-* National Galleries of Scotland Commons (hugovk / 20131222)
-* National Library of Scotland (hugovk / 20131222)
-* National Archives of Estonia (hugovk / 20131222)
 * National Library of Norway (hugovk / 20131223)
 * Riksarkivet (National Archives of Norway) (hugovk / 20131223)
 * National Library of Sweden (hugovk / 20131223)
@@ -90,7 +87,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Brooklyn Museum](data/83979593%40N00) – _last archived 20131220_
 * Keene and Cheshire County (NH) Historical Photos	(25960495@N06)
 * The Field Museum Library	(35310696@N04)
-* National Galleries of Scotland Commons	(30835311@N07)
+* [National Galleries of Scotland Commons](data/30835311@N07) – _last archived 20131222_
 * Jewish Historical Society of the Upper Midwest	(48143042@N05)
 * [Het Nieuwe Instituut - Architecture Collection](data/47154409%40N06) – _last archived 20131221_
 * National Library of Norway	(48220291@N04)
@@ -98,8 +95,8 @@ _If you are archiving one or more institutions below add them here and send me a
 * Tyne & Wear Archives & Museums	(29295370@N07)
 * Dundas Museum and Archives	(39758725@N03)
 * Bergen Public Library	(37381115@N04)
-* National Library of Scotland	(14456531@N07)
-* National Archives of Estonia	(94021017@N05)
+* [National Library of Scotland](data/14456531@N07) – _last archived 20131222_
+* [National Archives of Estonia](data/94021017@N05) – _last archived 20131222_
 * [San Diego Air & Space Museum Archives](data/49487266%40N07) – _partially archived as of 20131222_
 * Museum of Hartlepool	(47908901@N03)
 * [State Library and Archives of Florida](data/31846825%40N04) – _last archived 20131222_
