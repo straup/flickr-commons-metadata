@@ -111,11 +111,11 @@ _If you are archiving one or more institutions below add them here and send me a
 * bibliothequedetoulouse	(26134435@N05)
 * [California Historical Society Digital Collection](data/99278405%40N04) – _last archived 20131222_
 * [Law Society of Upper Canada Archives](data/38561291%40N04) – _last archived 20131223_
-* Vancouver Public Library Historical Photographs	(99915476@N04)
+* [Vancouver Public Library Historical Photographs](data/99915476%40N04)
 * The Library of Virginia	(30194653@N06)
 * State Library of New South Wales collection	(29454428@N08)
 * JWA Commons	(36281769@N04)
-* [Costică Acsinte Archive](data/109550159%40N08)
+* [Costică Acsinte Archive](data/109550159%40N08) – _last archived 20131223_
 * DEXTRA Photo	(88669438@N03)
 * National Library of Australia Commons	(67193564@N03)
 * Museum of Photographic Arts Collections	(61498590@N03)
