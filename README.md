@@ -53,6 +53,10 @@ Individual institutions are archived using the
 The following institutions are currently being archived by one or more people
 
 * San Diego Air & Space Museum Archives	(straup / 20131221)
+* National Library of Norway (hugovk / 20131223)
+* Riksarkivet (National Archives of Norway) (hugovk / 20131223)
+* National Library of Sweden (hugovk / 20131223)
+* Swedish National Heritage Board (hugovk / 20131223)
 
 _If you are archiving one or more institutions below add them here and send me a pull request or open an issue and I will add it to the list._
 
