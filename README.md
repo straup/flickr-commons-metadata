@@ -56,7 +56,6 @@ The following institutions are currently being archived by one or more people
 * National Galleries of Scotland Commons (hugovk / 20131222)
 * National Library of Scotland (hugovk / 20131222)
 * National Archives of Estonia (hugovk / 20131222)
-* Biblioteca de Arte-Fundação Calouste Gulbenkian (straup / 20131222)
 
 _If you are archiving one or more institutions below add them here and send me a pull request or open an issue and I will add it to the list._
 
@@ -120,7 +119,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * National Library of Australia Commons	(67193564@N03)
 * Museum of Photographic Arts Collections	(61498590@N03)
 * State Library of Queensland, Australia	(32605636@N06)
-* [Biblioteca de Arte-Fundação Calouste Gulbenkian](data/26577438%40N06) – _partially archived as of 20131222_
+* [Biblioteca de Arte-Fundação Calouste Gulbenkian](data/26577438%40N06) – _last archived 20131222_
 * [The Library of Congress](data/8623220%40N02) – _last archived 20131221_
 * Royal Australian Historical Society	(69269002@N04)
 * DC Public Library Commons	(36038586@N04)
