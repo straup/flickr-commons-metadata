@@ -57,7 +57,6 @@ The following institutions are currently being archived by one or more people
 * National Library of Scotland (hugovk / 20131222)
 * National Archives of Estonia (hugovk / 20131222)
 * Biblioteca de Arte-Fundação Calouste Gulbenkian (straup / 20131222)
-* Nationaal Archief (straup / 20131222)
 
 _If you are archiving one or more institutions below add them here and send me a pull request or open an issue and I will add it to the list._
 
@@ -108,7 +107,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * Nova Scotia Archives	(61232251@N05)
 * Public Record Office of Northern Ireland	(54403180@N04)
 * The British Library	(12403504@N02)
-* Nationaal Archief	(29998366@N02)
+* [Nationaal Archief](data/29998366%40N02) – _last archived 20131222_
 * bibliothequedetoulouse	(26134435@N05)
 * California Historical Society Digital Collection	(99278405@N04)
 * Law Society of Upper Canada Archives	(38561291@N04)
