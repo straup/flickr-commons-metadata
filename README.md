@@ -130,7 +130,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * Australian War Memorial collection	(30115723@N02)
 * State Records NSW	(27331537@N06)
 * UW Digital Collections	(8337233@N06)
-* George Eastman House	(7167652@N06)
+* [George Eastman House](data/7167652%40N06)
 * Schlesinger Library, RIAS, Harvard University	(99902797@N03)
 * [NASA on The Commons](data/44494372%40N05) – _last archived 20131221_
 * IWM Collections	(32300107@N06)
