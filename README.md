@@ -57,6 +57,7 @@ The following institutions are currently being archived by one or more people
 * National Library of Scotland (hugovk / 20131222)
 * National Archives of Estonia (hugovk / 20131222)
 * Biblioteca de Arte-Fundação Calouste Gulbenkian (straup / 20131222)
+* George Eastman House (straup / 20131222)
 
 _If you are archiving one or more institutions below add them here and send me a pull request or open an issue and I will add it to the list._
 
