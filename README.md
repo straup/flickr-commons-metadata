@@ -80,7 +80,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Smithsonian Institution](data/25053835%40N03) – _last archived 20131220_
 * [The U.S. National Archives](data/35740357%40N03) – _last archived 20131222_
 * OSU Special Collections & Archives : Commons	(34586311@N05)
-* The Royal Library, Denmark	(45270502@N06)
+* The Royal Library, Denmark	(45270502@N06) – _last archived 20131222_
 * Mennonite Church USA Archives	(52529054@N06)
 * The National Archives UK	(31575009@N05)
 * Ljósmyndasafn Reykjavíkur / Reykjavík Museum of	(9189488@N02)
