@@ -56,6 +56,10 @@ The following institutions are currently being archived by one or more people
 * National Galleries of Scotland Commons (hugovk / 20131222)
 * National Library of Scotland (hugovk / 20131222)
 * National Archives of Estonia (hugovk / 20131222)
+* National Library of Norway (hugovk / 20131223)
+* Riksarkivet (National Archives of Norway) (hugovk / 20131223)
+* National Library of Sweden (hugovk / 20131223)
+* Swedish National Heritage Board (hugovk / 20131223)
 
 _If you are archiving one or more institutions below add them here and send me a pull request or open an issue and I will add it to the list._
 
