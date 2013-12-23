@@ -57,7 +57,6 @@ The following institutions are currently being archived by one or more people
 * National Library of Scotland (hugovk / 20131222)
 * National Archives of Estonia (hugovk / 20131222)
 * Biblioteca de Arte-Fundação Calouste Gulbenkian (straup / 20131222)
-* George Eastman House (straup / 20131222)
 
 _If you are archiving one or more institutions below add them here and send me a pull request or open an issue and I will add it to the list._
 
@@ -92,7 +91,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * Jewish Historical Society of the Upper Midwest	(48143042@N05)
 * [Het Nieuwe Instituut - Architecture Collection](data/47154409%40N06) – _last archived 20131221_
 * National Library of Norway	(48220291@N04)
-* National Museum of Denmark	(95772747@N07)
+* [National Museum of Denmark](95772747%40N07)
 * Tyne & Wear Archives & Museums	(29295370@N07)
 * Dundas Museum and Archives	(39758725@N03)
 * Bergen Public Library	(37381115@N04)
@@ -131,7 +130,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * Australian War Memorial collection	(30115723@N02)
 * State Records NSW	(27331537@N06)
 * UW Digital Collections	(8337233@N06)
-* [George Eastman House](data/7167652%40N06)
+* [George Eastman House](data/7167652%40N06) – _last archived 20131222_
 * Schlesinger Library, RIAS, Harvard University	(99902797@N03)
 * [NASA on The Commons](data/44494372%40N05) – _last archived 20131221_
 * IWM Collections	(32300107@N06)
