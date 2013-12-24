@@ -58,6 +58,7 @@ The following institutions are currently being archived by one or more people
 * National Library of Sweden (hugovk / 20131223)
 * Swedish National Heritage Board (hugovk / 20131223)
 * Mississippi Department of Archives and History (straup / 20131223)
+* The British Library (straup / 20131223)
 
 _If you are archiving one or more institutions below add them here and send me a pull request or open an issue and I will add it to the list._
 
