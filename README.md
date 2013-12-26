@@ -66,7 +66,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * SMU Central University Libraries	(41131493@N06)
 * nha.library	(34101160@N07)
 * [Stockholm Transport Museum Commons](data/62173425%40N02) – _last archived 20131221_
-* National Library of Ireland on The Commons	(47290943@N03)
+* [National Library of Ireland on The Commons](data/47290943@N03) – _last archived 20131224_
 * UL Digital Library	(95717549@N07)
 * National Media Museum	(26808453@N03)
 * UA Archives | Upper Arlington History	(37784107@N08)
@@ -76,10 +76,10 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Smithsonian Institution](data/25053835%40N03) – _last archived 20131220_
 * [The U.S. National Archives](data/35740357%40N03) – _last archived 20131222_
 * OSU Special Collections & Archives : Commons	(34586311@N05)
-* The Royal Library, Denmark	(45270502@N06) – _last archived 20131222_
+* [The Royal Library, Denmark](data/45270502@N06) – _last archived 20131222_
 * Mennonite Church USA Archives	(52529054@N06)
 * The National Archives UK	(31575009@N05)
-* Ljósmyndasafn Reykjavíkur / Reykjavík Museum of	(9189488@N02)
+* [Ljósmyndasafn Reykjavíkur / Reykjavík Museum of](data/9189488@N02) – _last archived 20131224_
 * [Brooklyn Museum](data/83979593%40N00) – _last archived 20131220_
 * Keene and Cheshire County (NH) Historical Photos	(25960495@N06)
 * The Field Museum Library	(35310696@N04)
@@ -87,21 +87,21 @@ _If you are archiving one or more institutions below add them here and send me a
 * Jewish Historical Society of the Upper Midwest	(48143042@N05)
 * [Het Nieuwe Instituut - Architecture Collection](data/47154409%40N06) – _last archived 20131221_
 * [National Library of Norway](data/48220291@N04) – _last archived 20131223_
-* [National Museum of Denmark](95772747%40N07)
-* Tyne & Wear Archives & Museums	(29295370@N07)
+* [National Museum of Denmark](data/95772747%40N07) – _last archived 20131224_
+* [Tyne & Wear Archives & Museums](data/29295370@N07) – _last archived 20131224_
 * Dundas Museum and Archives	(39758725@N03)
-* Bergen Public Library	(37381115@N04)
+* [Bergen Public Library](data/37381115@N04) – _last archived 20131224_
 * [National Library of Scotland](data/14456531@N07) – _last archived 20131222_
 * [National Archives of Estonia](data/94021017@N05) – _last archived 20131222_
 * [San Diego Air & Space Museum Archives](data/49487266%40N07) – _partially archived as of 20131222_
-* Museum of Hartlepool	(47908901@N03)
+* [Museum of Hartlepool](data/47908901@N03) – _last archived 20131224_
 * [State Library and Archives of Florida](data/31846825%40N04) – _last archived 20131222_
 * LSE Library	(35128489@N07)
 * Deseronto Archives	(23121382@N07)
 * LlGC ~ NLW	(37199428@N06)
 * [Swedish National Heritage Board](data/34419668@N08) – _last archived 20131223_
 * Nova Scotia Archives	(61232251@N05)
-* Public Record Office of Northern Ireland	(54403180@N04)
+* [Public Record Office of Northern Ireland](data/54403180@N04) – _last archived 20131224_
 * The British Library	(12403504@N02)
 * [Nationaal Archief](data/29998366%40N02) – _last archived 20131222_
 * bibliothequedetoulouse	(26134435@N05)
