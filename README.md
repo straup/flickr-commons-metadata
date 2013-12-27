@@ -100,7 +100,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * Deseronto Archives	(23121382@N07)
 * LlGC ~ NLW	(37199428@N06)
 * [Swedish National Heritage Board](data/34419668@N08) – _last archived 20131223_
-* Nova Scotia Archives	(61232251@N05)
+* [Nova Scotia Archives](data/61232251@N05) – _last archived 20131228_
 * [Public Record Office of Northern Ireland](data/54403180@N04) – _last archived 20131224_
 * The British Library	(12403504@N02)
 * [Nationaal Archief](data/29998366%40N02) – _last archived 20131222_
