@@ -70,7 +70,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * UL Digital Library	(95717549@N07)
 * National Media Museum	(26808453@N03)
 * UA Archives | Upper Arlington History	(37784107@N08)
-* Getty Research Institute	(35532303@N08)
+* [Getty Research Institute](data/35532303@N08) – _last archived 20131228_
 * [National Library of Sweden](data/95520404@N07) – _last archived 20131223_
 * Center for Jewish History, NYC	(36988361@N08)
 * [Smithsonian Institution](data/25053835%40N03) – _last archived 20131220_
@@ -89,7 +89,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [National Library of Norway](data/48220291@N04) – _last archived 20131223_
 * [National Museum of Denmark](data/95772747%40N07) – _last archived 20131224_
 * [Tyne & Wear Archives & Museums](data/29295370@N07) – _last archived 20131224_
-* Dundas Museum and Archives	(39758725@N03)
+* [Dundas Museum and Archives](data/39758725@N03)_last archived 20131228_
 * [Bergen Public Library](data/37381115@N04) – _last archived 20131224_
 * [National Library of Scotland](data/14456531@N07) – _last archived 20131222_
 * [National Archives of Estonia](data/94021017@N05) – _last archived 20131222_
@@ -110,20 +110,20 @@ _If you are archiving one or more institutions below add them here and send me a
 * Vancouver Public Library Historical Photographs	(99915476@N04)
 * The Library of Virginia	(30194653@N06)
 * State Library of New South Wales collection	(29454428@N08)
-* JWA Commons	(36281769@N04)
+* [JWA Commons](data/36281769@N04) – _last archived 20131228_
 * Costică Acsinte Archive	(109550159@N08)
-* DEXTRA Photo	(88669438@N03)
+* [DEXTRA Photo](data/88669438@N03) – _last archived 20131228_
 * National Library of Australia Commons	(67193564@N03)
 * Museum of Photographic Arts Collections	(61498590@N03)
 * State Library of Queensland, Australia	(32605636@N06)
 * [Biblioteca de Arte-Fundação Calouste Gulbenkian](data/26577438%40N06) – _last archived 20131222_
 * [The Library of Congress](data/8623220%40N02) – _last archived 20131221_
-* Royal Australian Historical Society	(69269002@N04)
+* [Royal Australian Historical Society](data/69269002@N04) – _last archived 20131228_
 * DC Public Library Commons	(36038586@N04)
 * Fylkesarkivet i Sogn og Fjordane	(37547255@N08)
 * [New York Public Library](data/32951986%40N05) – _last archived 20131221_
 * [Riksarkivet (National Archives of Norway)](data/59811348@N05) – _last archived 20131223_
-* Australian War Memorial collection	(30115723@N02)
+* [Australian War Memorial collection](data/30115723@N02) – _last archived 20131228_
 * State Records NSW	(27331537@N06)
 * UW Digital Collections	(8337233@N06)
 * [George Eastman House](data/7167652%40N06) – _last archived 20131222_
