@@ -107,7 +107,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * bibliothequedetoulouse	(26134435@N05)
 * [California Historical Society Digital Collection](data/99278405%40N04) – _last archived 20131222_
 * Law Society of Upper Canada Archives	(38561291@N04)
-* Vancouver Public Library Historical Photographs	(99915476@N04)
+* [Vancouver Public Library Historical Photographs](data/99915476@N04) – _last archived 20131228_
 * The Library of Virginia	(30194653@N06)
 * State Library of New South Wales collection	(29454428@N08)
 * [JWA Commons](data/36281769@N04) – _last archived 20131228_
@@ -130,7 +130,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * Schlesinger Library, RIAS, Harvard University	(99902797@N03)
 * [NASA on The Commons](data/44494372%40N05) – _last archived 20131221_
 * IWM Collections	(32300107@N06)
-* Galt Museum & Archives on The Commons	(23686862@N03)
+* [Galt Museum & Archives on The Commons](data/23686862@N03) – _last archived 20131228_
 * [Svenska litteratursällskapet i Finland](data/48641766%40N05) – _last archived 20131221_
 * Woodrow Wilson Presidential Library Archives	(41815917@N06)
 * [Powerhouse Museum Collection](data/24785917%40N03) – _last archived 20131220_
