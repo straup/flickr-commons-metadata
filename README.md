@@ -64,12 +64,12 @@ _If you are archiving one or more institutions below add them here and send me a
 * Australian National Maritime Museum on The Commons	(33147718@N05)
 * Texas State Archives	(47326604@N02)
 * SMU Central University Libraries	(41131493@N06)
-* nha.library	(34101160@N07)
+* [nha.library](data/34101160@N07) – _last archived 20131228_
 * [Stockholm Transport Museum Commons](data/62173425%40N02) – _last archived 20131221_
 * [National Library of Ireland on The Commons](data/47290943@N03) – _last archived 20131224_
 * UL Digital Library	(95717549@N07)
 * National Media Museum	(26808453@N03)
-* UA Archives | Upper Arlington History	(37784107@N08)
+* [UA Archives | Upper Arlington History](data/37784107@N08) – _last archived 20131228_
 * [Getty Research Institute](data/35532303@N08) – _last archived 20131228_
 * [National Library of Sweden](data/95520404@N07) – _last archived 20131223_
 * Center for Jewish History, NYC	(36988361@N08)
