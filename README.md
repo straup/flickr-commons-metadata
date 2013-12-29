@@ -67,7 +67,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [nha.library](data/34101160@N07) – _last archived 20131228_
 * [Stockholm Transport Museum Commons](data/62173425%40N02) – _last archived 20131221_
 * [National Library of Ireland on The Commons](data/47290943@N03) – _last archived 20131224_
-* UL Digital Library	(95717549@N07)
+* [UL Digital Library](data/95717549@N07) – _last archived 20131229_
 * National Media Museum	(26808453@N03)
 * [UA Archives | Upper Arlington History](data/37784107@N08) – _last archived 20131228_
 * [Getty Research Institute](data/35532303@N08) – _last archived 20131228_
@@ -84,7 +84,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * Keene and Cheshire County (NH) Historical Photos	(25960495@N06)
 * The Field Museum Library	(35310696@N04)
 * [National Galleries of Scotland Commons](data/30835311@N07) – _last archived 20131222_
-* Jewish Historical Society of the Upper Midwest	(48143042@N05)
+* [Jewish Historical Society of the Upper Midwest](data/48143042@N05) – _last archived 20131229_
 * [Het Nieuwe Instituut - Architecture Collection](data/47154409%40N06) – _last archived 20131221_
 * [National Library of Norway](data/48220291@N04) – _last archived 20131223_
 * [National Museum of Denmark](data/95772747%40N07) – _last archived 20131224_
