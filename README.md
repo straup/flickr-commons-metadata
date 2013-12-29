@@ -104,7 +104,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Public Record Office of Northern Ireland](data/54403180@N04) – _last archived 20131224_
 * The British Library	(12403504@N02)
 * [Nationaal Archief](data/29998366%40N02) – _last archived 20131222_
-* bibliothequedetoulouse	(26134435@N05)
+* [bibliothequedetoulouse](data/26134435@N05) – _last archived 20131228_
 * [California Historical Society Digital Collection](data/99278405%40N04) – _last archived 20131222_
 * Law Society of Upper Canada Archives	(38561291@N04)
 * [Vancouver Public Library Historical Photographs](data/99915476@N04) – _last archived 20131228_
