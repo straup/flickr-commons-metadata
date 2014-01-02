@@ -108,13 +108,13 @@ _If you are archiving one or more institutions below add them here and send me a
 * [California Historical Society Digital Collection](data/99278405%40N04) – _last archived 20131222_
 * Law Society of Upper Canada Archives	(38561291@N04)
 * [Vancouver Public Library Historical Photographs](data/99915476@N04) – _last archived 20131228_
-* The Library of Virginia	(30194653@N06)
+* [The Library of Virginia](data/30194653@N06) – _last archived 20140102_
 * State Library of New South Wales collection	(29454428@N08)
 * [JWA Commons](data/36281769@N04) – _last archived 20131228_
-* Costică Acsinte Archive	(109550159@N08)
+* [Costică Acsinte Archive](data/109550159@N08) – _last archived 20140102_
 * [DEXTRA Photo](data/88669438@N03) – _last archived 20131228_
 * [National Library of Australia Commons](data/67193564@N03) – _last archived 20140102_
-* Museum of Photographic Arts Collections	(61498590@N03)
+* [Museum of Photographic Arts Collections](data/61498590@N03) – _last archived 20140102_
 * State Library of Queensland, Australia	(32605636@N06)
 * [Biblioteca de Arte-Fundação Calouste Gulbenkian](data/26577438%40N06) – _last archived 20131222_
 * [The Library of Congress](data/8623220%40N02) – _last archived 20131221_
