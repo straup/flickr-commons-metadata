@@ -113,7 +113,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [JWA Commons](data/36281769@N04) – _last archived 20131228_
 * Costică Acsinte Archive	(109550159@N08)
 * [DEXTRA Photo](data/88669438@N03) – _last archived 20131228_
-* National Library of Australia Commons	(67193564@N03)
+* [National Library of Australia Commons](data/67193564@N03) – _last archived 20140102_
 * Museum of Photographic Arts Collections	(61498590@N03)
 * State Library of Queensland, Australia	(32605636@N06)
 * [Biblioteca de Arte-Fundação Calouste Gulbenkian](data/26577438%40N06) – _last archived 20131222_
@@ -132,7 +132,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [IWM Collections](data/32300107@N06) – _last archived 20140102_
 * [Galt Museum & Archives on The Commons](data/23686862@N03) – _last archived 20131228_
 * [Svenska litteratursällskapet i Finland](data/48641766%40N05) – _last archived 20131221_
-* Woodrow Wilson Presidential Library Archives	(41815917@N06)
+* [Woodrow Wilson Presidential Library Archives](data/41815917@N06) – _last archived 20140102_
 * [Powerhouse Museum Collection](data/24785917%40N03) – _last archived 20131220_
 * Mississippi Department of Archives and History	(77015680@N05)
 * [National Library NZ on The Commons](data/32741315%40N06) – _last archived 20131220_
