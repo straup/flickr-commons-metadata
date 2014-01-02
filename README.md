@@ -68,7 +68,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Stockholm Transport Museum Commons](data/62173425%40N02) – _last archived 20131221_
 * [National Library of Ireland on The Commons](data/47290943@N03) – _last archived 20131224_
 * [UL Digital Library](data/95717549@N07) – _last archived 20131229_
-* National Media Museum	(26808453@N03)
+* [National Media Museum](data/26808453@N03) – _last archived 20140102_
 * [UA Archives | Upper Arlington History](data/37784107@N08) – _last archived 20131228_
 * [Getty Research Institute](data/35532303@N08) – _last archived 20131228_
 * [National Library of Sweden](data/95520404@N07) – _last archived 20131223_
@@ -120,7 +120,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [The Library of Congress](data/8623220%40N02) – _last archived 20131221_
 * [Royal Australian Historical Society](data/69269002@N04) – _last archived 20131228_
 * DC Public Library Commons	(36038586@N04)
-* Fylkesarkivet i Sogn og Fjordane	(37547255@N08)
+* [Fylkesarkivet i Sogn og Fjordane](data/37547255@N08) – _last archived 20140102_
 * [New York Public Library](data/32951986%40N05) – _last archived 20131221_
 * [Riksarkivet (National Archives of Norway)](data/59811348@N05) – _last archived 20131223_
 * [Australian War Memorial collection](data/30115723@N02) – _last archived 20131228_
@@ -129,7 +129,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [George Eastman House](data/7167652%40N06) – _last archived 20131222_
 * Schlesinger Library, RIAS, Harvard University	(99902797@N03)
 * [NASA on The Commons](data/44494372%40N05) – _last archived 20131221_
-* IWM Collections	(32300107@N06)
+* [IWM Collections](data/32300107@N06) – _last archived 20140102_
 * [Galt Museum & Archives on The Commons](data/23686862@N03) – _last archived 20131228_
 * [Svenska litteratursällskapet i Finland](data/48641766%40N05) – _last archived 20131221_
 * Woodrow Wilson Presidential Library Archives	(41815917@N06)
