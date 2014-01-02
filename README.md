@@ -72,7 +72,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [UA Archives | Upper Arlington History](data/37784107@N08) – _last archived 20131228_
 * [Getty Research Institute](data/35532303@N08) – _last archived 20131228_
 * [National Library of Sweden](data/95520404@N07) – _last archived 20131223_
-* Center for Jewish History, NYC	(36988361@N08)
+* [Center for Jewish History, NYC](data/36988361@N08) – _last archived 20140102_
 * [Smithsonian Institution](data/25053835%40N03) – _last archived 20131220_
 * [The U.S. National Archives](data/35740357%40N03) – _last archived 20131222_
 * OSU Special Collections & Archives : Commons	(34586311@N05)
@@ -125,9 +125,9 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Riksarkivet (National Archives of Norway)](data/59811348@N05) – _last archived 20131223_
 * [Australian War Memorial collection](data/30115723@N02) – _last archived 20131228_
 * State Records NSW	(27331537@N06)
-* UW Digital Collections	(8337233@N06)
+* [UW Digital Collections](data/8337233@N06) – _last archived 20140102_
 * [George Eastman House](data/7167652%40N06) – _last archived 20131222_
-* Schlesinger Library, RIAS, Harvard University	(99902797@N03)
+* [Schlesinger Library, RIAS, Harvard University](data/99902797@N03) – _last archived 20140102_
 * [NASA on The Commons](data/44494372%40N05) – _last archived 20131221_
 * [IWM Collections](data/32300107@N06) – _last archived 20140102_
 * [Galt Museum & Archives on The Commons](data/23686862@N03) – _last archived 20131228_
