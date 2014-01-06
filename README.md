@@ -53,8 +53,6 @@ Individual institutions are archived using the
 The following institutions are currently being archived by one or more people
 
 * San Diego Air & Space Museum Archives	(straup / 20131221)
-* National Library of Norway (hugovk / 20131223)
-* Riksarkivet (National Archives of Norway) (hugovk / 20131223)
 * National Library of Sweden (hugovk / 20131223)
 * Swedish National Heritage Board (hugovk / 20131223)
 * Mississippi Department of Archives and History (straup / 20131223)
@@ -77,7 +75,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * National Media Museum	(26808453@N03)
 * UA Archives | Upper Arlington History	(37784107@N08)
 * Getty Research Institute	(35532303@N08)
-* National Library of Sweden	(95520404@N07)
+* [National Library of Sweden](data/95520404@N07) – _last archived 20131223_
 * Center for Jewish History, NYC	(36988361@N08)
 * [Smithsonian Institution](data/25053835%40N03) – _last archived 20131220_
 * [The U.S. National Archives](data/35740357%40N03) – _last archived 20131222_
@@ -92,8 +90,8 @@ _If you are archiving one or more institutions below add them here and send me a
 * [National Galleries of Scotland Commons](data/30835311@N07) – _last archived 20131222_
 * Jewish Historical Society of the Upper Midwest	(48143042@N05)
 * [Het Nieuwe Instituut - Architecture Collection](data/47154409%40N06) – _last archived 20131221_
-* National Library of Norway	(48220291@N04)
 * [National Museum of Denmark](95772747%40N07) – _last archived 20131222_
+* [National Library of Norway](data/48220291@N04) – _last archived 20131223_
 * Tyne & Wear Archives & Museums	(29295370@N07)
 * Dundas Museum and Archives	(39758725@N03)
 * Bergen Public Library	(37381115@N04)
@@ -105,7 +103,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [LSE Library](data/35128489%40N07) – _last archived 20131223_
 * Deseronto Archives	(23121382@N07)
 * LlGC ~ NLW	(37199428@N06)
-* Swedish National Heritage Board	(34419668@N08)
+* [Swedish National Heritage Board](data/34419668@N08) – _last archived 20131223_
 * Nova Scotia Archives	(61232251@N05)
 * Public Record Office of Northern Ireland	(54403180@N04)
 * The British Library	(12403504@N02)
@@ -128,7 +126,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * DC Public Library Commons	(36038586@N04)
 * Fylkesarkivet i Sogn og Fjordane	(37547255@N08)
 * [New York Public Library](data/32951986%40N05) – _last archived 20131221_
-* Riksarkivet (National Archives of Norway)	(59811348@N05)
+* [Riksarkivet (National Archives of Norway)](data/59811348@N05) – _last archived 20131223_
 * Australian War Memorial collection	(30115723@N02)
 * State Records NSW	(27331537@N06)
 * UW Digital Collections	(8337233@N06)
