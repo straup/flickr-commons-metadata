@@ -96,9 +96,9 @@ _If you are archiving one or more institutions below add them here and send me a
 * [San Diego Air & Space Museum Archives](data/49487266%40N07) – _partially archived as of 20131222_
 * [Museum of Hartlepool](data/47908901@N03) – _last archived 20131224_
 * [State Library and Archives of Florida](data/31846825%40N04) – _last archived 20131222_
-* LSE Library	(35128489@N07)
+* [LSE Library](data/35128489@N07) – _last archived 20140108_
 * Deseronto Archives	(23121382@N07)
-* LlGC ~ NLW	(37199428@N06)
+* [LlGC ~ NLW](data/37199428@N06) – _last archived 20140108_
 * [Swedish National Heritage Board](data/34419668@N08) – _last archived 20131223_
 * [Nova Scotia Archives](data/61232251@N05) – _last archived 20131228_
 * [Public Record Office of Northern Ireland](data/54403180@N04) – _last archived 20131224_
