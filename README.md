@@ -82,7 +82,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Ljósmyndasafn Reykjavíkur / Reykjavík Museum of](data/9189488@N02) – _last archived 20131224_
 * [Brooklyn Museum](data/83979593%40N00) – _last archived 20131220_
 * Keene and Cheshire County (NH) Historical Photos	(25960495@N06)
-* The Field Museum Library	(35310696@N04)
+* [The Field Museum Library](data/35310696@N04) – _last archived 20140110_
 * [National Galleries of Scotland Commons](data/30835311@N07) – _last archived 20131222_
 * [Jewish Historical Society of the Upper Midwest](data/48143042@N05) – _last archived 20131229_
 * [Het Nieuwe Instituut - Architecture Collection](data/47154409%40N06) – _last archived 20131221_
