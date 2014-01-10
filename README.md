@@ -62,7 +62,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * Cornell University Library	(30515687@N05)
 * [National Maritime Museum](data/11334970%40N05) – _last archived 20131222_
 * Australian National Maritime Museum on The Commons	(33147718@N05)
-* Texas State Archives	(47326604@N02)
+* [Texas State Archives](data/47326604@N02) – _last archived 20140110_
 * SMU Central University Libraries	(41131493@N06)
 * [nha.library](data/34101160@N07) – _last archived 20131228_
 * [Stockholm Transport Museum Commons](data/62173425%40N02) – _last archived 20131221_
@@ -97,7 +97,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Museum of Hartlepool](data/47908901@N03) – _last archived 20131224_
 * [State Library and Archives of Florida](data/31846825%40N04) – _last archived 20131222_
 * [LSE Library](data/35128489@N07) – _last archived 20140108_
-* Deseronto Archives	(23121382@N07)
+* [Deseronto Archives](data/23121382@N07) – _last archived 20140108_
 * [LlGC ~ NLW](data/37199428@N06) – _last archived 20140108_
 * [Swedish National Heritage Board](data/34419668@N08) – _last archived 20131223_
 * [Nova Scotia Archives](data/61232251@N05) – _last archived 20131228_
