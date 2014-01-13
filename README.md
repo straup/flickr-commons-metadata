@@ -81,7 +81,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [The National Archives UK](data/31575009@N05) – _last archived 20131224_
 * [Ljósmyndasafn Reykjavíkur / Reykjavík Museum of](data/9189488@N02) – _last archived 20131224_
 * [Brooklyn Museum](data/83979593%40N00) – _last archived 20131220_
-* Keene and Cheshire County (NH) Historical Photos	(25960495@N06)
+* [Keene and Cheshire County (NH) Historical Photos](data/25960495@N06) – _last archived 20140113_
 * [The Field Museum Library](data/35310696@N04) – _last archived 20140110_
 * [National Galleries of Scotland Commons](data/30835311@N07) – _last archived 20131222_
 * [Jewish Historical Society of the Upper Midwest](data/48143042@N05) – _last archived 20131229_
@@ -106,10 +106,10 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Nationaal Archief](data/29998366%40N02) – _last archived 20131222_
 * [bibliothequedetoulouse](data/26134435@N05) – _last archived 20131228_
 * [California Historical Society Digital Collection](data/99278405%40N04) – _last archived 20131222_
-* Law Society of Upper Canada Archives	(38561291@N04)
+* [Law Society of Upper Canada Archives](data/38561291@N04) – _last archived 20140113_
 * [Vancouver Public Library Historical Photographs](data/99915476@N04) – _last archived 20131228_
 * [The Library of Virginia](data/30194653@N06) – _last archived 20140102_
-* State Library of New South Wales collection	(29454428@N08)
+* [State Library of New South Wales collection](data/29454428@N08) – _last archived 20140113_
 * [JWA Commons](data/36281769@N04) – _last archived 20131228_
 * [Costică Acsinte Archive](data/109550159@N08) – _last archived 20140102_
 * [DEXTRA Photo](data/88669438@N03) – _last archived 20131228_
