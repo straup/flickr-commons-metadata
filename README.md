@@ -59,11 +59,11 @@ _If you are archiving one or more institutions below add them here and send me a
 ### Complete list
 
 * [Musée McCord Museum](data/25786829%40N08) – _last archived 20131220_
-* Cornell University Library	(30515687@N05)
+* [Cornell University Library](data/30515687@N05) – _last archived 20140113_
 * [National Maritime Museum](data/11334970%40N05) – _last archived 20131222_
-* Australian National Maritime Museum on The Commons	(33147718@N05)
+* [Australian National Maritime Museum on The Commons](data/33147718@N05) – _last archived 20140113_
 * [Texas State Archives](data/47326604@N02) – _last archived 20140110_
-* SMU Central University Libraries	(41131493@N06)
+* [SMU Central University Libraries](data/41131493@N06) – _last archived 20140113_
 * [nha.library](data/34101160@N07) – _last archived 20131228_
 * [Stockholm Transport Museum Commons](data/62173425%40N02) – _last archived 20131221_
 * [National Library of Ireland on The Commons](data/47290943@N03) – _last archived 20131224_
@@ -75,9 +75,9 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Center for Jewish History, NYC](data/36988361@N08) – _last archived 20140102_
 * [Smithsonian Institution](data/25053835%40N03) – _last archived 20131220_
 * [The U.S. National Archives](data/35740357%40N03) – _last archived 20131222_
-* OSU Special Collections & Archives : Commons	(34586311@N05)
+* [OSU Special Collections & Archives : Commons](data/34586311@N05) – _last archived 20140113_
 * [The Royal Library, Denmark](data/45270502@N06) – _last archived 20131222_
-* Mennonite Church USA Archives	(52529054@N06)
+* [Mennonite Church USA Archives](data/52529054@N06) – _last archived 20140113_
 * [The National Archives UK](data/31575009@N05) – _last archived 20131224_
 * [Ljósmyndasafn Reykjavíkur / Reykjavík Museum of](data/9189488@N02) – _last archived 20131224_
 * [Brooklyn Museum](data/83979593%40N00) – _last archived 20131220_
@@ -115,7 +115,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [DEXTRA Photo](data/88669438@N03) – _last archived 20131228_
 * [National Library of Australia Commons](data/67193564@N03) – _last archived 20140102_
 * [Museum of Photographic Arts Collections](data/61498590@N03) – _last archived 20140102_
-* State Library of Queensland, Australia	(32605636@N06)
+* [State Library of Queensland, Australia](data/32605636@N06) – _last archived 20140113_
 * [Biblioteca de Arte-Fundação Calouste Gulbenkian](data/26577438%40N06) – _last archived 20131222_
 * [The Library of Congress](data/8623220%40N02) – _last archived 20131221_
 * [Royal Australian Historical Society](data/69269002@N04) – _last archived 20131228_
@@ -124,7 +124,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [New York Public Library](data/32951986%40N05) – _last archived 20131221_
 * [Riksarkivet (National Archives of Norway)](data/59811348@N05) – _last archived 20131223_
 * [Australian War Memorial collection](data/30115723@N02) – _last archived 20131228_
-* State Records NSW	(27331537@N06)
+* [State Records NSW](data/27331537@N06) – _last archived 20140113_
 * [UW Digital Collections](data/8337233@N06) – _last archived 20140102_
 * [George Eastman House](data/7167652%40N06) – _last archived 20131222_
 * [Schlesinger Library, RIAS, Harvard University](data/99902797@N03) – _last archived 20140102_
