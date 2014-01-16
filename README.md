@@ -56,7 +56,6 @@ The following institutions are currently being archived by one or more people
 * Swedish National Heritage Board (hugovk / 20131223)
 * Mississippi Department of Archives and History (straup / 20131223)
 * The British Library (straup / 20131223)
-* State Library of New South Wales collection (straup / 20140116)
 
 _If you are archiving one or more institutions below add them here and send me a pull request or open an issue and I will add it to the list._
 
@@ -113,7 +112,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Law Society of Upper Canada Archives](data/38561291%40N04) – _last archived 20131223_
 * [Vancouver Public Library Historical Photographs](data/99915476%40N04) – _last archived 20131223_
 * The Library of Virginia	(30194653@N06)
-* [State Library of New South Wales collection](data/29454428%40N08) - _most recently archived 20140116_
+* [State Library of New South Wales collection](data/29454428%40N08) - _last 20140116_
 * JWA Commons	(36281769@N04)
 * [Costică Acsinte Archive](data/109550159%40N08) – _last archived 20131223_
 * DEXTRA Photo	(88669438@N03)
