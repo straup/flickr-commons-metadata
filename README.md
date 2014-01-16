@@ -56,6 +56,7 @@ The following institutions are currently being archived by one or more people
 * Swedish National Heritage Board (hugovk / 20131223)
 * Mississippi Department of Archives and History (straup / 20131223)
 * The British Library (straup / 20131223)
+* State Library of New South Wales collection (straup / 20140116)
 
 _If you are archiving one or more institutions below add them here and send me a pull request or open an issue and I will add it to the list._
 
@@ -91,7 +92,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Het Nieuwe Instituut - Architecture Collection](data/47154409%40N06) – _last archived 20131221_
 * [National Museum of Denmark](95772747%40N07) – _last archived 20131222_
 * [National Library of Norway](data/48220291@N04) – _last archived 20131223_
-* Tyne & Wear Archives & Museums	(29295370@N07)
+* [Tyne & Wear Archives & Museums](data/29295370%40N07) - _last archived 20140116_
 * Dundas Museum and Archives	(39758725@N03)
 * Bergen Public Library	(37381115@N04)
 * [National Library of Scotland](data/14456531@N07) – _last archived 20131222_
@@ -112,7 +113,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Law Society of Upper Canada Archives](data/38561291%40N04) – _last archived 20131223_
 * [Vancouver Public Library Historical Photographs](data/99915476%40N04) – _last archived 20131223_
 * The Library of Virginia	(30194653@N06)
-* State Library of New South Wales collection	(29454428@N08)
+* [State Library of New South Wales collection](data/29454428%40N08) - _most recently archived 20140116_
 * JWA Commons	(36281769@N04)
 * [Costică Acsinte Archive](data/109550159%40N08) – _last archived 20131223_
 * DEXTRA Photo	(88669438@N03)
