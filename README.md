@@ -52,7 +52,6 @@ Individual institutions are archived using the
 
 The following institutions are currently being archived by one or more people
 
-* San Diego Air & Space Museum Archives	(straup / 20131221)
 * National Library of Sweden (hugovk / 20131223)
 * Swedish National Heritage Board (hugovk / 20131223)
 * Mississippi Department of Archives and History (straup / 20131223)
@@ -97,7 +96,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * Bergen Public Library	(37381115@N04)
 * [National Library of Scotland](data/14456531@N07) – _last archived 20131222_
 * [National Archives of Estonia](data/94021017@N05) – _last archived 20131222_
-* [San Diego Air & Space Museum Archives](data/49487266%40N07) – _partially archived as of 20131222_
+* [San Diego Air & Space Museum Archives](data/49487266%40N07) – _last archived 20140115_
 * Museum of Hartlepool	(47908901@N03)
 * [State Library and Archives of Florida](data/31846825%40N04) – _last archived 20131222_
 * [LSE Library](data/35128489%40N07) – _last archived 20131223_
