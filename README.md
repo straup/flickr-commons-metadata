@@ -38,13 +38,12 @@ archived before this date are still missing the `flarchive:created` attribute._
 
 ## Details
 
-Not all (read: most) participating institutions have been added to the
-repository yet so contributions and pull requests are welcome.
-
 Individual institutions are archived using the
 [py-flarchive](https://github.com/straup/py-flarchive) library, like this:
 
 	$> python ./flarchive/__init__.py -v -a <APIKEY> -n <NSID> -d flickr-commons-metadata/data
+
+This is a _massive_ repository and it's not at all clear that the way the data has been organized is the best way to do things. This is a first pass just to get the data and once that's done some time spent re-thinking how and where the data is stored is in order.
 
 ## Institutions
 
@@ -52,7 +51,7 @@ Individual institutions are archived using the
 
 The following institutions are currently being archived by one or more people
 
-* Mississippi Department of Archives and History (straup / 20131223)
+* DC Public Library Commons (straup / 20140308)
 * The British Library (straup / 20131223)
 
 _If you are archiving one or more institutions below add them here and send me a pull request or open an issue and I will add it to the list._
