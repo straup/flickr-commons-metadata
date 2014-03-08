@@ -1,7 +1,5 @@
 # flickr-commons-metadata
 
-_Note: As of 2014-02-12 @hugovk has downloaded all but two (three?) of the Commons institutions. They are not part of the `master` branch yet because they [are still being merged with the `master` branch](https://github.com/straup/flickr-commons-metadata/pull/7). It turns out using Git(Hub) for a project of this scale is slow and not entirely ideal. Once we've completed a first-pass of all the Commons institutions we will revisit how and where the data is ultimately stored._
-
 flickr-commons-metadata contains the raw metadata for Flickr Commons photos in JSON format pulled from the Flickr API using the following methods:
 
 * [flickr.photos.getInfo](http://www.flickr.com/services/api/flickr.photos.getInfo)
