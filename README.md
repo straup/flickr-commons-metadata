@@ -137,6 +137,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Mississippi Department of Archives and History](data/77015680%40N05)  – _partially archived as of 20131223_
 * [National Library NZ on The Commons](data/32741315%40N06) – _last archived 20131220_
 * [Provincial Archives of Alberta](data/95711690@N03) – _last archived 20140311_
+* [Miami University Libraries - Digital Collections](data/31033598@N03) – _last archived 20140311_
 
 ## See also
 
