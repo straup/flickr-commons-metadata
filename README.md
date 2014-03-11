@@ -25,11 +25,11 @@ For example:
 
 	$> cat 6260452122-i.json | python -mjson.tool
 	{
-	    "flarchive:created": 1387636691, 
+	    "flarchive:created": 1387636691,
 	    "photo": {
         	"comments": {
    	         "_content": "0"
-        	}, 
+        	},
 	    ... and so on
 	}
 
@@ -136,6 +136,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Powerhouse Museum Collection](data/24785917%40N03) – _last archived 20131220_
 * [Mississippi Department of Archives and History](data/77015680%40N05)  – _partially archived as of 20131223_
 * [National Library NZ on The Commons](data/32741315%40N06) – _last archived 20131220_
+* [Provincial Archives of Alberta](data/95711690@N03) – _last archived 20140311_
 
 ## See also
 
