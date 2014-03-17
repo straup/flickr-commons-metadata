@@ -51,8 +51,7 @@ This is a _massive_ repository and it's not at all clear that the way the data h
 
 The following institutions are currently being archived by one or more people
 
-* DC Public Library Commons (straup / 20140308)
-* The British Library (straup / 20131223)
+* _nothing right now_
 
 _If you are archiving one or more institutions below add them here and send me a pull request or open an issue and I will add it to the list._
 
@@ -102,7 +101,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Swedish National Heritage Board](data/34419668@N08) – _last archived 20131223_
 * [Nova Scotia Archives](data/61232251@N05) – _last archived 20131228_
 * [Public Record Office of Northern Ireland](data/54403180@N04) – _last archived 20131224_
-* The British Library	(12403504@N02)
+* [The British Library](data/12403504%40N02) - _last archived 20140316_
 * [Nationaal Archief](data/29998366%40N02) – _last archived 20131222_
 * [bibliothequedetoulouse](data/26134435@N05) – _last archived 20131228_
 * [California Historical Society Digital Collection](data/99278405%40N04) – _last archived 20131222_
@@ -119,7 +118,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Biblioteca de Arte-Fundação Calouste Gulbenkian](data/26577438%40N06) – _last archived 20131222_
 * [The Library of Congress](data/8623220%40N02) – _last archived 20131221_
 * [Royal Australian Historical Society](data/69269002@N04) – _last archived 20131228_
-* DC Public Library Commons	(36038586@N04)
+* [DC Public Library Commons](data/36038586@N04) – _last archived 20140308_
 * [Fylkesarkivet i Sogn og Fjordane](data/37547255@N08) – _last archived 20140102_
 * [New York Public Library](data/32951986%40N05) – _last archived 20131221_
 * [Riksarkivet (National Archives of Norway)](data/59811348@N05) – _last archived 20131223_
