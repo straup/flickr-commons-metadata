@@ -67,7 +67,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Center for Jewish History, NYC](data/36988361@N08) – _last archived 20140102_
 * [Cornell University Library](data/30515687@N05) – _last archived 20140113_
 * [Costică Acsinte Archive](data/109550159%40N08) – _last archived 20131223_
-* DC Public Library Commons	(36038586@N04)
+* [DC Public Library Commons](data/36038586%40N04) – _last archived 201403_
 * [DEXTRA Photo](data/88669438@N03) – _last archived 20131228_
 * [Deseronto Archives](data/23121382@N07) – _last archived 20140108_
 * [Dundas Museum and Archives](data/39758725@N03)_last archived 20131228_
@@ -154,7 +154,12 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Tasmanian Archive and Heritage Office](data/79256815%40N03) – _last archived 20140318_
 * [Library Company of Philadelphia](data/26491575%40N05)  – _last archived 20140318_
 
+## Contributors
+
+* @straup
+* @hugovk
 
 ## See also
 
 * [py-flarchive](https://github.com/straup/py-flarchive)
+
