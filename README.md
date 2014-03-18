@@ -151,6 +151,9 @@ _If you are archiving one or more institutions below add them here and send me a
 * [UW Digital Collections](data/8337233@N06) – _last archived 20140102_
 * [Vancouver Public Library Historical Photographs](data/99915476%40N04) – _last archived 20131223_
 * [Woodrow Wilson Presidential Library Archives](data/41815917@N06) – _last archived 20140102_
+* [Tasmanian Archive and Heritage Office](data/79256815%40N03) – _last archived 20140318_
+* [Library Company of Philadelphia](data/26491575%40N05)  – _last archived 20140318_
+
 
 ## See also
 
