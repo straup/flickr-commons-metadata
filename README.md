@@ -87,7 +87,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [Mennonite Church USA Archives](data/52529054@N06) – _last archived 20140113_
 * [Miami University Libraries - Digital Collections](data/31033598@N03) – _last archived 20140311_
 * [Mississippi Department of Archives and History](data/77015680%40N05)  – _partially archived as of 20131223_
-* [Musée McCord Museum](data/25786829%40N08) – _last archived 20131220_
+* [Musée McCord Museum](data/25786829%40N08) – _last archived 20140411_
 * [Museum of Hartlepool](data/47908901@N03) – _last archived 20131224_
 * [Museum of Photographic Arts Collections](data/61498590@N03) – _last archived 20140102_
 * [NASA on The Commons](data/44494372%40N05) – _last archived 20131221_
@@ -143,7 +143,7 @@ _If you are archiving one or more institutions below add them here and send me a
 * [The Library of Congress](data/8623220%40N02) – _last archived 20131221_
 * [The Library of Virginia](data/30194653@N06) – _last archived 20140102_
 * [The National Archives UK](data/31575009@N05) – _last archived 20131224_
-* [The Royal Library, Denmark](data/45270502@N06) – _last archived 20131222_
+* [The Royal Library, Denmark](data/45270502@N06) – _last archived 20140411_
 * [The U.S. National Archives](data/35740357%40N03) – _last archived 20131222_
 * [Tyne & Wear Archives & Museums](data/29295370%40N07) - _last archived 20140116_
 * [UA Archives | Upper Arlington History](data/37784107@N08) – _last archived 20131228_
@@ -151,8 +151,9 @@ _If you are archiving one or more institutions below add them here and send me a
 * [UW Digital Collections](data/8337233@N06) – _last archived 20140102_
 * [Vancouver Public Library Historical Photographs](data/99915476%40N04) – _last archived 20131223_
 * [Woodrow Wilson Presidential Library Archives](data/41815917@N06) – _last archived 20140102_
-* [Tasmanian Archive and Heritage Office](data/79256815%40N03) – _last archived 20140318_
+* [Tasmanian Archive and Heritage Office](data/79256815%40N03) – _last archived 20140111_
 * [Library Company of Philadelphia](data/26491575%40N05)  – _last archived 20140318_
+* [Finnish Museum of Photography](data/108605878%40N06) – _last archived 20140411_
 
 ## Contributors
 
@@ -160,6 +161,10 @@ _If you are archiving one or more institutions below add them here and send me a
 * @hugovk
 
 ## See also
+
+* http://inkdroid.org/journal/2014/04/07/glass-houses/
+* http://inkdroid.org/journal/2014/04/08/where-brooklyn-at/
+* http://inkdroid.org/journal/2014/04/11/flickr-commons-lams/
 
 * [py-flarchive](https://github.com/straup/py-flarchive)
 
